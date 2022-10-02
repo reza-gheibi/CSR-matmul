@@ -1,0 +1,30 @@
+Command line:
+   paper_1_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  64349
+
+Mon Feb 07 15:49:49 2022
+
+
+ Elaboration Time: 0.140625 sec
+
+ Current Memory Usage: 5804.33 Meg
+
+ Total Signals          : 7
+ Total Nets             : 7
+ Total Signal Drivers   : 1
+ Total Blocks           : 8
+ Total Primitive Blocks : 8
+ Total Processes        : 1
+ Total Traceable Variables  : 64
+ Total Scalar Nets and Variables : 2068
+In process paper_1.vhd:ReadMatrices 
+ 
+
+ Total Simulation Time: 0.375 sec
+
+ Current Memory Usage: 5804.33 Meg
+
+Mon Feb 07 15:50:43 2022
+

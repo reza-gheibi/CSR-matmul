@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Xilinx/Projects/Project_CSR/paper_1_isim_beh.exe" -prj "C:/Xilinx/Projects/Project_CSR/paper_1_beh.prj" "work.paper_1" 
